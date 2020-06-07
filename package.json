@@ -7,6 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "ernest kato",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernesthenry/react-express-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ernesthenry/react-express-example/issues"
+  },
+  "homepage": "https://github.com/ernesthenry/react-express-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
