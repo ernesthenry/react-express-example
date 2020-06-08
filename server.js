@@ -5,7 +5,7 @@ const port = process.env.PORT || 5000;
 
 // An api endpoint that returns a short list of items
 app.get('/api/getList', (req,res) => {
-    var list = ["item 1", "item 2", "item 3"];
+    var list = ["item 1", "item 2", "item 3, item 4"];
     res.json(list);
     console.log('Sent list of items');
 });
