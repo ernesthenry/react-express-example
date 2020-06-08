@@ -1,5 +1,3 @@
-This is a mern stack application for displaying lists of users from the server
-
 ### This is a mern stack application for displaying a lists of users from the server. 
 
 ## Technologies
@@ -29,4 +27,4 @@ You will also see any lint errors in the console.
 Author of the codebase
 ##  Kato  Ernest Henry
 
-The application is hosted [http://localhost:3000](here)
+The application is hosted [here](https://reactexpressapplication.herokuapp.com/list)
