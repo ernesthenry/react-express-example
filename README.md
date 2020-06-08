@@ -27,4 +27,4 @@ You will also see any lint errors in the console.
 Author of the codebase
 ##  Kato  Ernest Henry
 
-The application is hosted [here](https://reactexpressapplication.herokuapp.com/list)
+The application is hosted [here](https://reactexpressapplication.herokuapp.com)
