@@ -3,11 +3,6 @@ const app = express();
 const path = require('path')
 const port = process.env.PORT || 5000;
 
-// route setup
-app.get('/', (req,res) => { 
-    res.send('route route');
-})
-
 // An api endpoint that returns a short list of items
 app.get('/api/getList', (req,res) => {
     var list = ["item 1", "item 2", "item 3"];
